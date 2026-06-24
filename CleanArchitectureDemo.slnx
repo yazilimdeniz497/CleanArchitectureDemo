@@ -4,7 +4,11 @@
     <Project Path="Core.Applications/Core.Applications.csproj" Id="e12e2c9e-596d-40a4-b055-d608da29a754" />
     <Project Path="Core.Domain/Core.Domain.csproj" Id="ab2958a4-221f-46bf-8bc4-648948b483bb" />
   </Folder>
-  <Folder Name="/Src/Infastructure/" />
-  <Folder Name="/Src/Presentetion/" />
+  <Folder Name="/Src/Infastructure/">
+    <Project Path="Infastructure/Infastructure.csproj" Id="e7011730-7db0-4d71-9112-f486572a1326" />
+  </Folder>
+  <Folder Name="/Src/Presentetion/">
+    <Project Path="Presentetion/Presentetion.csproj" Id="68edbcbc-5efd-4712-a9ce-eb92bf9b6adb" />
+  </Folder>
   <Folder Name="/Test/" />
 </Solution>
