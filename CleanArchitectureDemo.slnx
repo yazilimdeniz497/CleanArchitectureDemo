@@ -1,6 +1,9 @@
 <Solution>
   <Folder Name="/Src/" />
-  <Folder Name="/Src/Core/" />
+  <Folder Name="/Src/Core/">
+    <Project Path="Core.Applications/Core.Applications.csproj" Id="e12e2c9e-596d-40a4-b055-d608da29a754" />
+    <Project Path="Core.Domain/Core.Domain.csproj" Id="ab2958a4-221f-46bf-8bc4-648948b483bb" />
+  </Folder>
   <Folder Name="/Src/Infastructure/" />
   <Folder Name="/Src/Presentetion/" />
   <Folder Name="/Test/" />
